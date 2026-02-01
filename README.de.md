@@ -5,9 +5,9 @@ English version: README.en.md
 Autor  
 Alexander Klaus Korte
 
-Dopamin Reset
+## Dopamin Reset
 
-#Ziel
+## Ziel
 Überstimulation senken.  
 Ruhe, Fokus und Kreativität zurückholen.  
 Social Media von Reflex zu Entscheidung machen.
