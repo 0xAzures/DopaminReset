@@ -119,7 +119,7 @@ Das schohnt auch Deine Augen, zum Beispiel abends.
 Richte folgendes auf Deinem Smartphone ein:
 Rechte Seitentaste dreimal drücken. Graustufen an oder aus.
 
-## Nimm die Veränderung war (unjd feire Dich dafür!)
+## Nimm die Veränderung war (und feiere Dich dafür!)
 
 Es funktioniert, wenn:
 1 Deine Öffnungsrate für Deine Social Media Apps sinken
