@@ -1,10 +1,10 @@
-# Dopamin Reset
+# Low Stimulation Protocol
 
 [Deutsch](README.de.md) | [English](README.en.md)
 
 A practical 30-day experiment for interrupting automatic social-media use and rebuilding tolerance for low-stimulation activities.
 
-> “Dopamin Reset” is a memorable name, not a literal biological reset of the dopamine system. This is a personal behavioral protocol, not medical or psychotherapeutic treatment.
+> “Low Stimulation Protocol” is a memorable name, not a literal biological reset of the dopamine system. This is a personal behavioral protocol, not medical or psychotherapeutic treatment.
 
 ## The 30-minute core
 
@@ -22,4 +22,4 @@ Track screen time, social-media openings, and uninterrupted reading time before 
 
 ## License
 
-© Alexander Klaus Korte. Licensed under [CC BY 4.0](LICENSE).
+© 2026 Dopamin Reset Project. Licensed under [CC BY 4.0](LICENSE).
