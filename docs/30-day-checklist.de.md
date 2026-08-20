@@ -1,4 +1,4 @@
-# Dopamin Reset: 30-Tage-Tracker
+# Low Stimulation Protocol: 30-Tage-Tracker
 
 ## Ausgangswert
 
