@@ -1,153 +1,105 @@
 # Dopamin Reset
 
-English version: README.en.md
+[English](README.en.md) | [Startseite](README.md)
 
-Autor  
-Alexander Klaus Korte
+Autor: Alexander Klaus Korte
 
-## Dopamin Reset
+> „Dopamin Reset“ ist ein vereinfachter Name für ein Verhaltenstraining. Es findet kein wörtlicher biologischer Reset des Dopaminsystems statt. Das Protokoll ist ein persönliches Selbstexperiment und keine medizinische oder psychotherapeutische Behandlung.
 
-### Ziel
-Überstimulation senken.  
-Ruhe, Fokus und Kreativität zurückholen.  
-Social Media von Reflex zu Entscheidung machen.
+## Ziel
 
-## Täglicher Kern
+Automatische Mediennutzung unterbrechen, niedrige Reizniveaus wieder besser aushalten und längere Aufmerksamkeit einüben. Ob und wie stark sich Ruhe, Fokus oder Kreativität verändern, ist individuell unterschiedlich.
 
-Teil 1: 15 Minuten nichts tun  
-Teil 2: 15 Minuten auf Papier lesen  
-Teil 1 und Teil 2 direkt hintereinander.
+## Mindestversion für 30 Tage
 
-### Teil 1: 15 Minuten nichts tun
+1. 15 Minuten ohne gezielte Stimulation
+2. Direkt danach 15 Minuten auf Papier lesen
+3. Eine konsequente Social-Media-Bremse
+4. Täglich wiederholen, ohne ausgefallene Tage nachzuholen
 
-Dauer  
-15 Minuten jeden Tag, am besten zur gleichen Zeit.
+## Teil 1: 15 Minuten ohne gezielte Stimulation
 
-Setup
+### Vorbereitung
 
-1. Handy außer Reichweite.
-2. Keine Musik, keine Podcasts, kein Bildschirm.
+1. Handy außer Reichweite legen.
+2. Musik, Podcasts und Bildschirme ausschalten.
 3. Sitzen, stehen oder langsam gehen.
+4. Möglichst eine feste Tageszeit wählen.
 
-Ablauf
+### Ablauf
 
-1. Auf die Uhr schauen und dich auf die nächsten 15 Minuten einstellen.
-2. 15 Minuten absolut nichts tun.
-3. Gedanken kommen und gehen lassen.
-4. Nicht bewerten. Nichts festhalten. Nichts planen. Nur wahrnehmen, egal was auftaucht.
-5. Wenn Unruhe kommt, weitermachen. Bleib in der Übung.
+1. Timer auf 15 Minuten stellen und außer Sichtweite legen.
+2. Nicht lesen, schreiben, planen oder gezielt ein Problem bearbeiten.
+3. Gedanken und Wahrnehmungen kommen und gehen lassen.
+4. Unruhe wahrnehmen, ohne die Übung deswegen abzubrechen.
 
-Regeln
+Es geht nicht darum, den Kopf leer zu machen. Es geht darum, nicht sofort auf jeden inneren oder äußeren Reiz zu reagieren.
 
-1. Keine Notizen.
-2. Keine Planung.
-3. Kein Multitasking.
-4. Aufmerksamkeit und Wahrnehmung wandern lassen.
+## Teil 2: 15 Minuten auf Papier lesen
 
-### Teil 2: 15 Minuten auf Papier lesen
+1. Direkt nach Teil 1 beginnen.
+2. Ein Buch oder einen längeren gedruckten Text lesen.
+3. Keine Nachrichten, Kurzmeldungen oder parallelen Geräte verwenden.
+4. Den Impuls, etwas nachzuschlagen oder festzuhalten, wahrnehmen und weiterlesen.
 
-Dauer  
-15 Minuten direkt nach Teil 1, idealerweise zu einer festen Zeit.
+Lieber täglich 15 Minuten als gelegentlich eine lange Einheit.
 
-Setup
+## Social-Media-Bremse
 
-1. Nur Buch aus Papier. Lange Texte, keine Kurzform Inhalte wie Nachrichten.
-2. Kein Handy.
-3. Kein E Reader.
-4. Kein Bildschirm.
+Wähle für 30 Tage genau eine Variante.
 
-Ablauf
+### Variante A: Interventions-App
 
-1. Auf die Uhr schauen und dich auf die nächsten 15 Minuten einstellen.
-2. Ruhig lesen.
-3. Wenn der Impuls kommt, etwas zu prüfen, zu checken oder festhalten zu wollen, merken und weiterlesen.
+Eine App wie [one sec](https://one-sec.app/) kann vor dem Öffnen ausgewählter Apps eine kurze Unterbrechung einbauen.
 
-Regel  
-Lieber täglich kurz als selten lang.
+1. Unterbrechung vollständig abwarten.
+2. Vorher eine kurze Nutzungsdauer festlegen.
+3. Nach Ablauf schließen.
+4. Nicht automatisch verlängern.
 
-## Social Media Eindämmung
+### Variante B: feste Scrollzahl
 
-Wähle ein System und bleib mindestens 30 Tage dabei.
+1. Eine feste Zahl zwischen 3 und 7 wählen.
+2. Vor dem Öffnen einmal langsam ein- und ausatmen.
+3. Jeden Scrollvorgang mitzählen.
+4. Bei Erreichen der Zahl sofort schließen.
+5. Drei Sekunden Pause machen.
 
-### Option A: oneSec App für TikTok, Instagram und Facebook
+Wenn du die Regel brichst, schließe die App, sobald du es bemerkst. Kein Nachholen, keine Strafe, kein Neustart des gesamten Programms.
 
-App
+## Optional, nicht verpflichtend
 
-1. oneSec, optional Premium.
+1. Handyfreie Toilette
+2. Handyfreies Schlafzimmer und separater Wecker
+3. Graustufenmodus, um das Display subjektiv weniger attraktiv zu machen
+4. Benachrichtigungen nicht notwendiger Apps abschalten
 
-Link  
-https://one-sec.app/
+Die genaue Einrichtung des Graustufenmodus unterscheidet sich zwischen iOS und Android.
 
-Was die App macht  
-oneSec zwingt zu einer kurzen Atemübung, bevor TikTok, Instagram oder Facebook nutzbar ist.  
-Danach legst du die Nutzungsdauer fest.
+## Vorher und nachher messen
 
-Ablauf bei jedem Öffnen
+Notiere vor dem Start sowie nach 7 und 30 Tagen:
 
-1. Atemübung mitmachen.
-2. Nutzungsdauer auf X Minuten setzen, so kurz wie möglich.
-3. Nach Ablauf der Zeit die App über den von oneSec eingeblendeten Button schließen.
-4. Nach dem Schließen kurz wahrnehmen: Du hast die Schleife aktiv unterbrochen.
+1. durchschnittliche tägliche Bildschirmzeit
+2. tägliche Öffnungen der wichtigsten Social-Media-App
+3. längste ununterbrochene Lesezeit
+4. subjektiven Öffnungsdrang von 0 bis 10
+5. absolvierte Protokolltage
 
-Regeln
+[30-Tage-Tracker](docs/30-day-checklist.de.md)
 
-1. Nicht automatisch verlängern.
-2. Wenn verlängern, dann bewusst und selten.
+Eine Verbesserung ist ein Trend, kein Beweis für eine bestimmte biologische Wirkung.
 
-### Option B: feste Scroll Zahl als Habit für TikTok, Instagram und Facebook
+## Wenn ein Tag ausfällt
 
-Regel  
-Immer die gleiche Zahl. Kein Verhandeln.
+Nicht doppelt nachholen. Am nächsten Tag normal weitermachen.
 
-Wähle eine feste Zahl zwischen 3 und 7.
+## Grenzen und Sicherheit
 
-Ablauf jedes Mal
+Das Protokoll ist nicht als Behandlung von ADHS, Depressionen, Angststörungen, Abhängigkeit oder anderen Erkrankungen gedacht. Beende die Übung, wenn sie starke Unruhe oder andere erhebliche Beschwerden verstärkt, und hole bei Bedarf professionelle Unterstützung ein.
 
-1. Einmal langsam einatmen. Einmal langsam ausatmen.
-2. Social Media App öffnen.
-3. Scrollen und bei jedem Scroll hochzählen, bis die feste Zahl erreicht ist.
-4. Bei Erreichen der Zahl die App sofort schließen.
-5. Drei Sekunden Pause. Wahrnehmen: Du hast die Schleife aktiv unterbrochen.
-
-Wenn du die Regel brichst
-
-1. Möglichst sofort schließen, sobald du es merkst.
-2. Beim nächsten Öffnen wieder strikt sein.
-3. Kein Drama. Der Habit braucht Zeit, bis er sich im Gehirn etabliert.
-
-## Zusatzregeln
-
-### No phone Regel auf der Toilette
-
-Kein Handy auf der Toilette.
-
-### No phone Regel im Schlafzimmer
-
-Kein Handy im Schlafzimmer.  
-Handy lädt außerhalb des Schlafzimmers.  
-Besser: ein separater analoger Wecker.
-
-### Smartphone Hotkey: Graustufen an oder aus
-
-Ziel  
-Bildschirm schwarz weiß, weniger attraktiv, weniger Trigger.  
-Schont auch die Augen, besonders abends.
-
-Einrichtung  
-Richte auf deinem Smartphone den Kurzbefehl so ein, dass du per dreifachem Druck der rechten Seitentaste die Graustufen umschaltest.
-
-Nutzung  
-Rechte Seitentaste dreimal drücken. Graustufen an oder aus.
-
-## Nimm die Veränderung wahr und feiere dich
-
-Es funktioniert, wenn
-
-1. Deine Öffnungsrate für Social Media Apps sinkt.
-2. Du länger lesen kannst, ohne den Drang das Handy zu checken.
-3. Lange Texte dir leichter fallen.
+[Forschungsstand und Grenzen](docs/evidence.md)
 
 ## Lizenz
 
-Creative Commons Attribution 4.0 International.  
-Volltext in der Datei LICENSE.
+© Alexander Klaus Korte. Veröffentlicht unter [Creative Commons Attribution 4.0 International](LICENSE).
