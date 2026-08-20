@@ -1,10 +1,8 @@
-# Dopamin Reset
+# Low Stimulation Protocol
 
 [Deutsch](README.de.md) | [Home](README.md)
 
-Author: Alexander Klaus Korte
-
-> “Dopamin Reset” is a memorable name for behavioral training. It is not a literal biological reset of the dopamine system. This protocol is a personal self-experiment, not medical or psychotherapeutic treatment.
+> “Low Stimulation Protocol” is a memorable name for behavioral training. It is not a literal biological reset of the dopamine system. This protocol is a personal self-experiment, not medical or psychotherapeutic treatment.
 
 ## Goal
 
@@ -102,4 +100,4 @@ This protocol is not intended to treat ADHD, depression, anxiety, addiction, or 
 
 ## License
 
-© Alexander Klaus Korte. Licensed under [Creative Commons Attribution 4.0 International](LICENSE).
+© 2026 Dopamin Reset Project. Licensed under [Creative Commons Attribution 4.0 International](LICENSE).
