@@ -1,10 +1,25 @@
-### Dopamin Reset
+# Dopamin Reset
 
-A simple daily protocol to reduce overstimulation and rebuild boredom tolerance.
-You do 15 minutes of doing nothing, then 15 minutes of paper reading.
-For social media, you use a strict brake so opening becomes a conscious choice, not a reflex.
-Over time, urges drop, focus returns, and long form reading and creative thinking feel natural again.
+[Deutsch](README.de.md) | [English](README.en.md)
 
-English version: https://github.com/0xAzures/DopaminReset/README.en.md/
+A practical 30-day experiment for interrupting automatic social-media use and rebuilding tolerance for low-stimulation activities.
 
-German version: https://github.com/0xAzures/DopaminReset/README.de.md/
+> “Dopamin Reset” is a memorable name, not a literal biological reset of the dopamine system. This is a personal behavioral protocol, not medical or psychotherapeutic treatment.
+
+## The 30-minute core
+
+1. Spend 15 minutes without a phone, music, podcasts, screens, planning, or note-taking.
+2. Immediately read a paper book or another long-form printed text for 15 minutes.
+3. Use one consistent friction rule whenever you open social media.
+4. Repeat daily for 30 days.
+
+Track screen time, social-media openings, and uninterrupted reading time before starting and after 7 and 30 days.
+
+[Full English protocol](README.en.md)  
+[Vollständiges deutsches Protokoll](README.de.md)  
+[30-day tracker](docs/30-day-checklist.en.md)  
+[Evidence and limitations](docs/evidence.md)
+
+## License
+
+© Alexander Klaus Korte. Licensed under [CC BY 4.0](LICENSE).
