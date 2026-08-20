@@ -1,4 +1,4 @@
-# Dopamin Reset: 30-Day Tracker
+# Low Stimulation Protocol: 30-Day Tracker
 
 ## Baseline and results
 
