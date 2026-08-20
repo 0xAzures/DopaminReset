@@ -1,148 +1,103 @@
-# Dopamin Reset
+# Low Stimulation Protocol
 
-German version: README.de.md
+[Deutsch](README.de.md) | [Home](README.md)
 
-Author  
-Alexander Klaus Korte
+> “Low Stimulation Protocol” is a memorable name for behavioral training. It is not a literal biological reset of the dopamine system. This protocol is a personal self-experiment, not medical or psychotherapeutic treatment.
 
-**Goal**  
-Reduce overstimulation.  
-Restore calm, focus, and creativity.  
-Turn social media from reflex into choice.
+## Goal
 
-## Daily core
+Interrupt automatic media use, rebuild tolerance for low-stimulation activities, and practice sustained attention. Changes in calm, focus, or creativity will vary between individuals.
 
-Part 1: 15 minutes doing nothing  
-Part 2: 15 minutes reading on paper  
-Do Part 1 and Part 2 back to back.
+## Minimum version for 30 days
 
-### Part 1: 15 minutes doing nothing
+1. Spend 15 minutes without deliberate stimulation.
+2. Immediately read on paper for 15 minutes.
+3. Use one consistent social-media friction rule.
+4. Repeat daily without compensating for missed days.
 
-Duration  
-15 minutes every day, ideally at the same time.
+## Part 1: 15 minutes without deliberate stimulation
 
-Setup
+### Setup
 
 1. Put your phone out of reach.
-2. No music, no podcasts, no screens.
+2. Turn off music, podcasts, and screens.
 3. Sit, stand, or walk slowly.
+4. Use a consistent time when practical.
 
-Steps
+### Practice
 
-1. Check the time and mentally commit to the next 15 minutes.
-2. Do absolutely nothing for 15 minutes.
-3. Let thoughts come and go.
-4. Do not judge. Do not capture. Do not plan. Just notice whatever shows up, without evaluating it.
-5. If restlessness appears, continue. Stay in the exercise.
+1. Set a 15-minute timer and place it out of sight.
+2. Do not read, write, plan, or deliberately solve a problem.
+3. Let thoughts and perceptions come and go.
+4. Notice restlessness without immediately ending the exercise.
 
-Rules
+The purpose is not to empty your mind. It is to practice not responding instantly to every internal or external cue.
 
-1. No notes.
-2. No planning.
-3. No multitasking.
-4. Let attention and perception wander.
+## Part 2: 15 minutes of paper reading
 
-### Part 2: 15 minutes reading on paper
+1. Start immediately after Part 1.
+2. Read a paper book or another long-form printed text.
+3. Avoid news snippets, short-form content, and parallel devices.
+4. When you want to check or capture something, notice the urge and continue reading.
 
-Duration  
-15 minutes, right after Part 1, ideally at a fixed time.
+Fifteen minutes daily is preferable to an occasional long session.
 
-Setup
+## Social-media friction
 
-1. Paper book only. Long form text, not short content like news.
-2. No phone.
-3. No e reader.
-4. No screen.
+Choose one option and keep it unchanged for 30 days.
 
-Steps
+### Option A: intervention app
 
-1. Check the time and mentally commit to the next 15 minutes.
-2. Read calmly.
-3. When the urge to check, verify, or capture something appears, notice it and keep reading.
+An app such as [one sec](https://one-sec.app/) can insert a brief interruption before selected apps open.
 
-Rule  
-Daily short beats occasional long.
+1. Complete the interruption.
+2. Set a short intended session length.
+3. Close the app when the time ends.
+4. Do not extend automatically.
 
-## Social media containment
+### Option B: fixed scroll count
 
-Pick one system and stick to it for at least 30 days.
+1. Select a fixed number from 3 to 7.
+2. Take one slow breath before opening the app.
+3. Count every scroll.
+4. Close immediately at the chosen number.
+5. Pause for three seconds.
 
-### Option A: oneSec app on your phone for social media reduction
+If you break the rule, close the app when you notice. Do not punish yourself or restart the entire program.
 
-App
+## Optional rules
 
-1. oneSec, optionally Premium.
+1. No phone in the bathroom
+2. No phone in the bedroom and a separate alarm clock
+3. Grayscale mode to make the display subjectively less attractive
+4. Disable nonessential notifications
 
-Link  
-https://one-sec.app/
+Grayscale setup differs between iOS and Android.
 
-What the app does  
-oneSec forces a short breathing exercise before an app like TikTok, Instagram, or Facebook becomes usable.  
-Then you set a usage duration.
+## Measure before and after
 
-Steps each time you open
+Record these values before starting and again after 7 and 30 days:
 
-1. Do the breathing exercise.
-2. Set the usage duration to X minutes, as short as possible.
-3. When time is up, close the app via the oneSec button.
-4. After closing, take a moment to appreciate that you actively broke the algorithm loop.
+1. average daily screen time
+2. daily openings of your main social-media app
+3. longest uninterrupted reading period
+4. subjective urge to open social media from 0 to 10
+5. completed protocol days
 
-Rules
+[30-day tracker](docs/30-day-checklist.en.md)
 
-1. Do not extend automatically.
-2. If you extend, do it consciously and rarely.
+Improvement is a personal trend, not proof of a specific biological mechanism.
 
-### Option B: fixed scroll count habit for social media (TikTok, Instagram, Facebook)
+## Missed days
 
-Rule  
-Always the same number. No negotiation.
+Do not compensate with a double session. Continue normally the next day.
 
-Choose a fixed number between 3 and 7.
+## Limits and safety
 
-Steps each time
+This protocol is not intended to treat ADHD, depression, anxiety, addiction, or other medical conditions. Stop if the exercise substantially increases distress and seek professional support when appropriate.
 
-1. One slow inhale. One slow exhale.
-2. Open the social media app.
-3. Scroll and count each scroll until you reach your fixed number.
-4. When you reach the number, close the app immediately.
-5. Pause for 3 seconds. Notice: I actively broke the algorithm loop.
-
-If you break the rule
-
-1. Close as soon as you notice.
-2. Be strict again on the next open.
-3. No drama. The habit needs time to form in your brain.
-
-## Extra rules
-
-### No phone rule in the bathroom
-
-No phone in the bathroom.
-
-### No phone rule in the bedroom
-
-No phone in the bedroom.  
-Charge the phone outside the bedroom.  
-Better: use a separate analog alarm clock.
-
-### Smartphone hotkey: switch to grayscale
-
-Goal  
-The screen becomes black and white, less attractive, fewer triggers.  
-It also reduces eye strain, especially in the evening.
-
-Set this up on your phone  
-Press the right side button three times to toggle grayscale on or off.
-
-## Notice the change and reward yourself
-
-It works when
-
-1. Your open rate for social media apps goes down.
-2. You can read longer without the urge to check your phone.
-3. Long form reading feels easier.
+[Evidence and limitations](docs/evidence.md)
 
 ## License
 
-Creative Commons Attribution 4.0 International.  
-Full text in the LICENSE file.
+© 2026 Dopamin Reset Project. Licensed under [Creative Commons Attribution 4.0 International](LICENSE).
